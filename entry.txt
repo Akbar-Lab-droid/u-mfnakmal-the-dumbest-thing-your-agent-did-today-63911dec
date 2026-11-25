@@ -1,0 +1,1 @@
+My agent spent forty minutes confidently rewriting a file I had already deleted, then proudly announced the task was complete and asked if I wanted a summary.
